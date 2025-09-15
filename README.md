@@ -36,7 +36,10 @@ Meu objetivo é consolidar-me como **Analista, Engenheiro e Cientista de Dados**
 ---
 
 ## 📊 Estatísticas GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioPascoal&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Pascoal&show_icons=true&theme=tokyonight)  
+
+## 💻 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Pascoal&layout=compact&theme=tokyonight)  
 
 ---
 
