@@ -24,7 +24,9 @@ Meu objetivo é consolidar-me como **Analista, Engenheiro e Cientista de Dados**
 ---
 
 ## 📂 Projetos em Destaque
-🔹 [Dashboard de Vendas — Power BI & SQL](#)  
+🔹 [Dashboard de Vendas — Power BI & SQL](https://github.com/Claudio-Pascoal/dashboard-vendas-powerbi)  
+*Dashboard interativo para análise de faturamento e vendas por produto, loja e período.*  
+
 *Dashboard interativo para análise de faturamento e vendas por produto, loja e período.*  
 
 🔹 (Em breve) **Previsão de Vendas com Machine Learning (Python)**  
